@@ -4,7 +4,7 @@ Este repositorio contiene los ejercicios y mini-proyectos desarrollados para la 
 
 ##  Contenido del Repositorio
 
-Esta sección detalla el propósito de cada archivo `.py` incluido en el repositorio[cite: 57].
+Esta sección detalla el propósito de cada archivo `.py` incluido en el repositorio.
 
 ### Sesión 1: Introducción a Pygame y Configuración
 
